@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "bot-digital-inovation-etui",
+  "private_key_id": "c096476bb7911f168dde94159d36cf22762f67a3",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC5qOr8eZ+1cM/I\nsk4XlaeIS0tK/uaSr2zeXvajJuOo4GAr7+kSOuQ/iy6UPoX8AYOJ3463Ag+b1hLm\nVf6HmcQgFQchw7bWMFfbFDhnJ3/H2YlZfJ8ENGxdBG7Q6k8D9oWrF2Y8nWSJdztn\nKm5wwXp7R/ZXQVR502ZJ9rJMtGwcS0beWUpJVh5vFCmfFeOKLqv6NyWF6bYNwM+m\nE4M6S9P82CwqzrsCGMZEGRvyGZLbHAf0afm/JMK+niS5+0jGYGfSYUpD4fAUAyj5\n+xSwpCmXqWX29nI2JumYlpWdhDiqEYj9OhsUCdM9Vl+IwP0h+KTGKPVLyt3sVuhC\ntQK9WNzXAgMBAAECggEAAKx0DnS3iLqS/xFAlq7PjPMpXtMBiRsA3BM4a59ZwUr3\n4zBqwSRai6FN9HxZds33/5iPwsgKm/MEaGlTHiquK/UGjzPFqBPOs2MxyqhP6+OK\najci5GFxNAo282MTNdhDs1uerc5rL776pC7zBiULy8nL/h6tFnl4gnrkZuLApEXC\nzFO8CuqqCuC/+s7mAeTEwZnXL6GFRq5HxPDh8e6yjDz4tL4aKmYxfOiSW1ZhMFTA\n5FAK6G7J2GzPn6XXTpUpfEkYLQvU+3AQD4fNbJHoZ/jGk4K8r0KhTCLm8RcOdKl4\nrMsfMBB+Ie1u2nZy0LgqQpgYQ5/a/IgYY84WVluqOQKBgQDgc41HGWuf15mm0v2l\nEvv1CBxhObHTUCHbsPdniSZJXtBSoZoVsk51cEY+/mcGQTa+yBZVd6Q0r5meszZE\namvpY/D4JBX0eKsFU3Jq9tGUIwokynO+JerA0KOyB7mYAtzOXBXXOEIzth65eyLs\n3udJhac0FkYgQG52trdmWe846wKBgQDTwYcSvLKOoo2ZGEByPrBiEDQzjDSEUOdz\n3U35mErFxyrFHZoYaJMw1MAoBCWRbIUcsH1spADcsP3gA9wiitplHsfuapEVQarx\nQC9+ao0po2bwjO1lyOTwMmHT466UPha8MJyap5PFLsqsVZfVqAMx+DM3MtOYXHY9\nzuhRw0IwxQKBgQCRwZhKRrDEcV8/nZ7H1yc1vVmora3UGyKRpz9SxhbN6LuCHZ2R\nX2RiEVIc0FqZDjp99DPEttg0uqAZFio0jaOcQaGXkt+LDd2JrOINolEBUSviLnKx\nVbA4HIVhNHEKzTkU7WnlhIxBRpB3RQauKiaqcRfe1GQfx5e0kf1Rgy+9lwKBgQC9\nYkcgrdzwDlefhX4V7xUnDyDwvUM213i5OkMDqH2vNvp8goYPsG9767rTzymeTzUZ\nvIrgQCl5N15HHIyj5BWA/K+I/ow1O57b1zDi2f7YL4jgONoU/0ApxpWRwP6hHIqO\n0tcsxhU19CxVRtPdxT7eUQHVK0Ls8Dzb+JH0ljI7lQKBgB48h1mSsx3AuDvCoXwA\nyGsCgx54OdTu5uwHbPxWUArzj9nz6YfceuHj27h/AvutkmOHhjF800rBTJCjEQKR\nsdNULTOo1XKxdfozK9uKx77jEorAE2n1DXQQaBZPk9XCNe1PSGnFWe3UO5gB1aYe\ni9qp/ul4CSFxoc4XpQiPoj7t\n-----END PRIVATE KEY-----\n",
+  "client_email": "dialogflow-dvxcpa@bot-digital-inovation-etui.iam.gserviceaccount.com",
+  "client_id": "103516778472296394352",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dialogflow-dvxcpa%40bot-digital-inovation-etui.iam.gserviceaccount.com"
+}
